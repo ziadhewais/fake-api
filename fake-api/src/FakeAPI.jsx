@@ -14,6 +14,7 @@ export default function FakeAPI() {
     console.log(fetchedData);
     setTodos(fetchedData);
     //we are adding some text to commit
+    //now this line is on a new branch
   }
 
   return (
